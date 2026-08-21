@@ -84,6 +84,7 @@ Task_06_Classification_Algorithms_Comparison/
 │   └── classification_helpers.py
 │
 └── figures/
+```
 
 ## Conclusion
 
