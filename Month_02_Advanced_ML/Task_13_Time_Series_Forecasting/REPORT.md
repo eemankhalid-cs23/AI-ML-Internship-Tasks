@@ -1,4 +1,3 @@
-```markdown
 # Task 13 — Time Series Forecasting Report
 
 ## 1. Introduction
