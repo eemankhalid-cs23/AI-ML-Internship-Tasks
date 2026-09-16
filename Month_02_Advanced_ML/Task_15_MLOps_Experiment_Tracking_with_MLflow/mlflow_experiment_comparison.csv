@@ -1,0 +1,3 @@
+run_id,tags.mlflow.runName,params.model,metrics.accuracy,metrics.precision,metrics.recall,metrics.f1_score
+0ad7f76e4297480bac88b79b77ceb428,Random_Forest,Random Forest,0.9134498664724447,0.7961432506887053,0.3114224137931034,0.447714949651433
+537f1739e675442ba1432f62b69b22d1,Baseline_Logistic_Regression,Logistic Regression,0.9166059723233795,0.7117750439367311,0.4364224137931034,0.5410821643286573
